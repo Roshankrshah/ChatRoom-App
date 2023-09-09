@@ -36,6 +36,11 @@ a {
     color: var(--dark-color-a);
     border: 0;
     font-size: 17px;
+    transition: all 0.3s ease;
+}
+
+.btn:hover{
+    background: whitesmoke;
 }
 
 /* Chat Page */
